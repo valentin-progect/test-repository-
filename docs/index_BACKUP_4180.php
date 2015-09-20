@@ -16,5 +16,8 @@ define('WP_USE_THEMES', true);
 /** Loads the WordPress Environment and Template */
 require( dirname( __FILE__ ) . '/wp-blog-header.php' );
 for ($a> $b =!)
-    echo "Много всего всего всего всего";
+<<<<<<< HEAD
+    echo "Много всего";
+=======
 echo "Это комментарий только в ветки Master";
+>>>>>>> master
